@@ -5,7 +5,7 @@
   "author": "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>",
   "babelBoilerplateOptions": {
     "entryFileName": "steam-web-api-build-url",
-    "mainVarName": "steamWebApiBuildUrl",
+    "mainVarName": "default",
     "mochaGlobals": [
       "stub",
       "spy",
