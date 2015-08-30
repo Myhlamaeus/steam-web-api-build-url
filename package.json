@@ -54,7 +54,11 @@
     "watchify": "^3.3.1"
   },
   "homepage": "https://github.com/ileri/steam-web-api-build-url",
-  "keywords": [],
+  "keywords": [
+    "steam",
+    "steam web api",
+    "url"
+  ],
   "license": "MIT",
   "main": "dist/steam-web-api-build-url.js",
   "repository": {
