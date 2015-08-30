@@ -1,7 +1,7 @@
 {
   "name": "steam-web-api-build-url",
   "description": "Build the request URL for Steam Web API requests",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>",
   "babelBoilerplateOptions": {
     "entryFileName": "steam-web-api-build-url",
